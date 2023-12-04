@@ -1,0 +1,20 @@
+{
+  "name": "jsontostring",
+  "version": "1.0.0",
+  "description": "Json to String parser package to easily manipulate data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AYOUB AMZIL",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aamzil/JsonToString.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aamzil/JsonToString/issues"
+  },
+  "homepage": "https://github.com/aamzil/JsonToString#readme"
+}
